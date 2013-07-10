@@ -1,6 +1,7 @@
 {
   "name": "boostrapx-clickover",
   "version": "0.1.0",
+  "main": "js/boostrapx-clickover.js",
   "dependencies": {
   }
 }
