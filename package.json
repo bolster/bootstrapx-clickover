@@ -1,0 +1,22 @@
+{
+  "name": "bootstrapx-clickover",
+  "version": "0.1.0",
+  "description": "Bootstrapx Clickover =================",
+  "main": "js/boostrapx-clickover.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bolster/bootstrapx-clickover.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bolster/bootstrapx-clickover/issues"
+  },
+  "homepage": "https://github.com/bolster/bootstrapx-clickover"
+}
